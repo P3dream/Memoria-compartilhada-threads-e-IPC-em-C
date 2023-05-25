@@ -12,4 +12,4 @@ Neste projeto, da disciplina de Sistemas Operacionais do CEFET/RJ, Pude exercita
 - Utilização de semáforos POSIX
 - Utilização de Threads
 - Envio e recebimento de mensagens entre diferentes processos
-
+- Concorrencia entre processos
